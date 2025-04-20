@@ -1,0 +1,6 @@
+com\example\productapi\ProductApiApplication.class
+com\example\productapi\config\DataLoader.class
+com\example\productapi\entity\Product.class
+com\example\productapi\controller\ProductController.class
+com\example\productapi\VeriYukleyici.class
+com\example\productapi\repository\ProductRepository.class
